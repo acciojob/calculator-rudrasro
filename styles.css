@@ -9,9 +9,7 @@ html, body{
 .text-center{
     text-align: center;
 }
-.bg-red{
-    background: red;
-}
+
 .mx-auto{
     margin: auto;
 }
